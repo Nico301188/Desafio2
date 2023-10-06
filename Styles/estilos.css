@@ -1,0 +1,142 @@
+* {
+    color: rgb(182, 200, 215);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: white;
+    color: rgb(105, 133, 147);
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+}
+
+
+body {
+    background-color: rgb(39, 50, 56);
+}
+
+img {
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 2%;
+    width: 500px;
+    height: 146px;
+}
+
+.h2Asp {
+    color: #E6CBBF;
+    text-transform: uppercase;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.spanAsp {
+    color: #E6CBBF;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 2rem;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.img-aspiradora {
+    border-color: #E6CBBF;
+    padding-top: 1px;
+    padding-left: 1px;
+}
+
+.h2Cel {
+    color: #A1C1CB;
+    text-transform: uppercase;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.spanCel {
+    color: #A1C1CB;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 2rem;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.img-celular {
+    border-color: #A1C1CB;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+
+.h2Consola {
+    color: #BCBDBF;
+    text-transform: uppercase;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.spanCon {
+    color: #BCBDBF;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 2rem;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.img-consola {
+    border-color: #BCBDBF;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+
+.h2home {
+    color: #8D94A1;
+    text-transform: uppercase;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.spanHom {
+    color: #8D94A1;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 2rem;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.img-home {
+    border-color: #8D94A1;
+    ;
+}
+
+.h2tele {
+    color: #B2B2AA;
+    text-transform: uppercase;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.spanTv {
+    color: #B2B2AA;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 2rem;
+    font-weight: lighter;
+    letter-spacing: 2px;
+}
+
+.img-tele {
+
+    border-color: #B2B2AA;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
